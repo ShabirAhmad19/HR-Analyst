@@ -1,1 +1,1 @@
-# HR-Analyst
+# HR-Analytics
