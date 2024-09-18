@@ -4,7 +4,8 @@ The HR Analytics Dashboard is a comprehensive tool designed to analyze and visua
 #Screenshot
 (Excel)
 
-![image](https://github.com/user-attachments/assets/75b99236-3314-478a-8033-d3aafc658dd0)
+![image](https://github.com/user-attachments/assets/0b8239bc-254f-4169-ad6a-c37dd2f9b3b1)
+
 
 (Power Bi)
 
